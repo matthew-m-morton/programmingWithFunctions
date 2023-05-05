@@ -1,0 +1,41 @@
+Proposal for a Student Chosen Program
+
+(This is a proposal. All proposals are written with our best knowledge
+at the beginning of a project. As we progress from the beginning to the
+end of a project, we gain more knowledge, and some of the ideas we
+proposed change. This is part of completing any project and is fine.
+However, we still must write a proposal so that our teachers or
+supervisors know what we intend to do. Please answer each of the
+following questions to the best of your knowledge.)
+
+1. What is the title of your program?
+    valheim_boss_hits.py
+
+2. What real world problem will your program address or help to solve?
+    This program will promt the user for their weapon of choice and use it
+    to calculate how many hits (or shots) from the weapon it will take to 
+    defeat a choosen boss.
+
+3. What will you learn from developing this program?
+    how to make dictionaries from csv(s), multiple if, elif, else statements 
+    and lots of calculations made based on user input. 
+
+4. What Python modules will your program use? (Some examples are: csv,
+datetime, functools, matplotlib, math, pandas, pytest, random, requests,
+and tkinter.)
+    The csv and math modules.
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+    yes there will need to be multiple functions. Off the top of my head 
+    there will need to be a dicionary function, at least one calculation function
+    and maybe a list function.
+
+6. Will you write test functions to test many of your program functions?
+    Yes I will, it will be easy and nessissary to test the calculation function(s)  
+
+(Remember that it's hard to test functions that get user input and print
+output. It's easy to test functions that don't get user input and don't
+print output but instead have parameters and return a result. Therefore,
+you should write most of your program functions to have parameters and
+return a result.)

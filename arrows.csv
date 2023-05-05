@@ -1,0 +1,11 @@
+arrow_name,pierce,frost,fire,poison,spirit
+wood,22,0,0,0,0
+flinthead,27,0,0,0,0
+bronsehead,32,0,0,0,0
+ironhead,42,0,0,0,0
+obsidian,52,0,0,0,0
+needle,62,0,0,0,0
+fire,11,0,22,0,0
+poison,26,0,0,20,0
+silver,52,0,0,0,20
+frost,26,52,0,0,0

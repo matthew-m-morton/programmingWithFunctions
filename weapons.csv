@@ -1,0 +1,42 @@
+name,type,blunt,pierce,slash,frost,fire,poison,spirit
+stone axe,Axes,0,0,30,0,0,0,0
+flint axe,Axes,0,0,35,0,0,0,0
+bronze axe,Axes,0,0,55,0,0,0,0
+iron axe,Axes,0,0,75,0,0,0,0
+blackmetal axe,Axes,0,0,115,0,0,0,0
+battleaxe,Axes,0,0,88,0,0,0,0
+crystal battleaxe,Axes,0,0,108,0,0,0,30
+crude bow,Bows,0,31,0,0,0,0,0
+finewood bow,Bows,0,41,0,0,0,0,0
+huntsman bow,Bows,0,51,0,0,0,0,0
+draugr fang,Bows,0,56,0,0,0,20,0
+club,Clubs,30,0,0,0,0,0,0
+torch,Clubs,4,0,0,0,15,0,0
+bronze mace,Clubs,53,0,0,0,0,0,0
+iron mace,Clubs,73,0,0,0,0,0,0
+frostner,Clubs,35,0,0,58,0,0,20
+porcupine,Clubs,50,63,0,0,0,0,0
+stagbreaker,Clubs,38,5,0,0,0,0,0
+iron sledge,Clubs,73,0,0,0,0,0,0
+bare fists,Fists,5,0,0,0,0,0,0
+flesh rippers,Fists,0,0,76,0,0,0,0
+flint knife,Knives,0,8,8,0,0,0,0
+copper knife,Knives,0,15,15,0,0,0,0
+abyssal razor,Knives,0,23,23,0,0,0,0
+silver knife,Knives,0,28,28,0,0,0,12
+blackmetal knife,Knives,0,37,37,0,0,0,0
+antler pickaxe,Pickaxes,0,18,0,0,0,0,0
+bronze pickaxe,Pickaxes,0,40,0,0,0,0,0
+iron pickaxe,Pickaxes,0,48,0,0,0,0,0
+bronze atgeir,Polearms,0,63,0,0,0,0,0
+iron atgeir,Polearms,0,83,0,0,0,0,0
+blackmetal atgeir,Polearms,0,123,0,0,0,0,0
+flint spear,Spears,0,38,0,0,0,0,0
+bronze spear,Spears,0,53,0,0,0,0,0
+abyssal harpoon,Spears,0,10,0,0,0,0,0
+ancient bark spear,Spears,0,73,0,0,0,0,0
+fang spear,Spears,0,93,0,0,0,0,0
+bronze sword,Swords,0,0,53,0,0,0,0
+iron sword,Swords,0,0,73,0,0,0,0
+silver sword,Swords,0,0,93,0,0,0,45
+blackmetal sword,Swords,0,0,113,0,0,0,0
